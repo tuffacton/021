@@ -1,2 +1,2 @@
 # 0 to 1
-A collection of Colaboratory Notebooks to take you from zero to one on a huge variety of topics. View the notebooks or run/modify them yourself!
+A collection of exercise to take your from zero to one on a growing variety of topics, all run on free resources like Colaboratory or Free Tier cloud services.
